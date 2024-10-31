@@ -1,0 +1,289 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ProfPanda Hidden Things\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/profpanda-hidden-"
+"things\n"
+"POT-Creation-Date: 2019-07-03 19:02-0300\n"
+"PO-Revision-Date: 2019-07-03 19:03-0300\n"
+"Last-Translator: \n"
+"Language-Team: Anderson ProfPanda <prof.andersongf@gmail.com>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.3\n"
+"X-Poedit-Basepath: ../../../../../..\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__\n"
+"X-Poedit-SearchPath-0: Anderson/Panda/teste/wp-content/plugins/"
+"profpanda_hidden_things/.\n"
+"X-Poedit-SearchPath-1: AMAZON/Downloads/Profpanda/profpanda-hidden-things/"
+"trunk\n"
+"X-Poedit-SearchPath-2: AMAZON/Downloads/Profpanda/profpanda-hidden-things/"
+"trunk/languages\n"
+
+#: profpanda_hidden_things.php:82
+msgid "<span class=\"woo\">Woocommerce</span>"
+msgstr "<span class=\"woo\">Woocommerce</span>"
+
+#: profpanda_hidden_things.php:89
+msgid "<span class=\"loginscreen\">Login Screen</span>"
+msgstr "<span class=\"loginscreen\">Tela de Login</span>"
+
+#: profpanda_hidden_things.php:96
+msgid "<span class=\"dash\">Dashboard</span>"
+msgstr "<span class=\"dash\">Página Inicial</span>"
+
+#: profpanda_hidden_things.php:104
+msgid "Price"
+msgstr "Preço"
+
+#: profpanda_hidden_things.php:117
+msgid "Buy Button"
+msgstr "Botão Comprar"
+
+#: profpanda_hidden_things.php:130
+msgid "Redirection on Buy Button"
+msgstr "Redirecionamento do botão Comprar"
+
+#: profpanda_hidden_things.php:143
+msgid "Page to Redirect"
+msgstr "Página para redirecionar"
+
+#: profpanda_hidden_things.php:156
+msgid "Login Logo"
+msgstr "Logo do Login"
+
+#: profpanda_hidden_things.php:169
+msgid "Admin Footer Text"
+msgstr "Texto do Rodapé do Admin"
+
+#: profpanda_hidden_things.php:182
+msgid "Login Form Background"
+msgstr "Fundo do Formulário de Login"
+
+#: profpanda_hidden_things.php:195
+msgid "Login Form Label Color"
+msgstr "Cor do Rótulo do Formulário de Login"
+
+#: profpanda_hidden_things.php:208
+msgid "Login Form button text Color"
+msgstr "Cor do Texto do botão do Formulário de Login"
+
+#: profpanda_hidden_things.php:221
+msgid "Login Form button shadow Color"
+msgstr "Cor da Sombra do botão do Formulário de Login"
+
+#: profpanda_hidden_things.php:234
+msgid "Login Form button border Color"
+msgstr "Cor da Borda do Botão do Formulário de Login"
+
+#: profpanda_hidden_things.php:247
+msgid "Login Form button background Color"
+msgstr "Cor de fundo do botão do Formulário de Login"
+
+#: profpanda_hidden_things.php:260
+msgid "Dashboard Plugins"
+msgstr "Plugins"
+
+#: profpanda_hidden_things.php:273
+msgid "User Library"
+msgstr "Biblioteca de Midia"
+
+#: profpanda_hidden_things.php:286
+msgid "Hide Admin Bar"
+msgstr "Ocultar Barra de Admin"
+
+#: profpanda_hidden_things.php:299
+msgid "Dashboard Recent Comments"
+msgstr "Comentários Recentes"
+
+#: profpanda_hidden_things.php:312
+msgid "Dashboard Primary Area"
+msgstr "Área Principal"
+
+#: profpanda_hidden_things.php:325
+msgid "Dashboard Secondary Area"
+msgstr "Área Secundária"
+
+#: profpanda_hidden_things.php:338
+msgid "Dashboard Incoming Links"
+msgstr "Entrada de Links"
+
+#: profpanda_hidden_things.php:351
+msgid "Dashboard Right Now"
+msgstr "Agora"
+
+#: profpanda_hidden_things.php:364
+msgid "Dashboard Quick Press"
+msgstr "Rascunho rápido"
+
+#: profpanda_hidden_things.php:377
+msgid "Dashboard Activity"
+msgstr "Atividade"
+
+#: profpanda_hidden_things.php:408
+msgid "Hide price and/or buy button when user are not logged."
+msgstr "Ocultar preço e/ou botão comprar quando usuário não estiver logado."
+
+#: profpanda_hidden_things.php:415
+msgid "Change options in Login screen."
+msgstr "Modificar opções na Tela de Login."
+
+#: profpanda_hidden_things.php:422
+msgid "Hide elements in Dashboard."
+msgstr "Ocultar elementos na Página Inicial."
+
+#: profpanda_hidden_things.php:443 profpanda_hidden_things.php:466
+msgid "Hide"
+msgstr "Ocultar"
+
+#: profpanda_hidden_things.php:446 profpanda_hidden_things.php:469
+msgid "Show"
+msgstr "Mostrar"
+
+#: profpanda_hidden_things.php:450
+msgid "Hide the product price if user are not logged. "
+msgstr "Ocultar o preço do produto se o usuário não estiver logado."
+
+#: profpanda_hidden_things.php:473
+msgid "Hide the buy button if user are not logged. "
+msgstr "Ocultar o botão comprar se o usuário não estiver logado."
+
+#: profpanda_hidden_things.php:499
+msgid ""
+"Redirect user to default login page if not logged when the Add to Cart "
+"Button is hit. "
+msgstr ""
+"Redireciona o usuário para a páigna padrão de login se ele não estiver "
+"logado quando pressionar o botão Comprar."
+
+#: profpanda_hidden_things.php:532
+msgid "Select the page to redirect after Add to Cart button is hit. "
+msgstr "Selecione a página para redirecionar após clicar no botão Comprar."
+
+#: profpanda_hidden_things.php:549
+msgid "Enter the Logo URL you want to use in the Login screen."
+msgstr "Inserir a URL do Logo que você deseja usar na tela de Login."
+
+#: profpanda_hidden_things.php:566
+msgid "Enter the text to be show in the admin footer."
+msgstr "Inserir o texto que será mostrado no rodapé da tela de Admin"
+
+#: profpanda_hidden_things.php:581
+msgid "Form Login Background"
+msgstr "Cor de fundo do Formulário de Login"
+
+#: profpanda_hidden_things.php:584
+msgid "Choose the color to Login Form Background."
+msgstr "Escolha a cor de fundo para o Formulário de Login"
+
+#: profpanda_hidden_things.php:599
+msgid "Text Color"
+msgstr "Cor do Texto"
+
+#: profpanda_hidden_things.php:602
+msgid "Choose the color to the text of the Form Login."
+msgstr "Escolha a cor para o texto do Formulário de Login"
+
+#: profpanda_hidden_things.php:617
+msgid "Button Text"
+msgstr "Texto do Botão"
+
+#: profpanda_hidden_things.php:620
+msgid "Choose the color to the button text of the Form Login."
+msgstr "Escolha a cor para o texto do botão do Formulário de Login"
+
+#: profpanda_hidden_things.php:635
+msgid "Button Shadow"
+msgstr "Sombra do Botão"
+
+#: profpanda_hidden_things.php:638
+msgid "Choose the color to the button shadow of the Form Login."
+msgstr "Escolha a cor da sombra do botão do Formulário de Login"
+
+#: profpanda_hidden_things.php:654
+msgid "Button Border"
+msgstr "Borda do Botão"
+
+#: profpanda_hidden_things.php:657
+msgid "Choose the color to the button border of the Form Login."
+msgstr "Escolha a cor para a borda do botão do Formulário de Login"
+
+#: profpanda_hidden_things.php:672
+msgid "Button Background"
+msgstr "Cor de fundo do Botão"
+
+#: profpanda_hidden_things.php:675
+msgid "Choose the color to the button background of the Form Login."
+msgstr "Escolha a cor para o fundo do botão do Formulário de Login"
+
+#: profpanda_hidden_things.php:701
+msgid "Users can see only the Midia they upload."
+msgstr "Usuários só podem ver a Midia que tiverem feito o upload."
+
+#: profpanda_hidden_things.php:727
+msgid "Hide upper admin bar to users that are not admin or editor."
+msgstr ""
+"Ocultar a barra superior do admin para usuários que não seja Admin ou Editor"
+
+#: profpanda_hidden_things.php:753
+msgid "Hide the Dasboard Plugin area. "
+msgstr "Ocultar os Plugins da Página Inicial"
+
+#: profpanda_hidden_things.php:779
+msgid "Hide the Dasboard Recent Comments area. "
+msgstr "Ocultar os Comentários Recentes da Página Inicial"
+
+#: profpanda_hidden_things.php:805
+msgid "Hide the Dasboard Primary area. "
+msgstr "Ocultar a Área Principal da Página Inicial"
+
+#: profpanda_hidden_things.php:831
+msgid "Hide the Dasboard Secondary area. "
+msgstr "Ocultar a Área Secundária da Página Inicial"
+
+#: profpanda_hidden_things.php:857
+msgid "Hide the Dasboard Incoming Links area. "
+msgstr "Ocultar a Entrada de Links da Página Inicial"
+
+#: profpanda_hidden_things.php:883
+msgid "Hide the Dasboard Right Now area. "
+msgstr "Ocultar o Agora da Página Inicial"
+
+#: profpanda_hidden_things.php:909
+msgid "Hide the Dasboard Quick Press area. "
+msgstr "Ocultar o Rascunho rápido da Página Inicial"
+
+#: profpanda_hidden_things.php:935
+msgid "Hide the Dasboard Activity area. "
+msgstr "Ocultar a Atividade da Página Inicial"
+
+#: profpanda_hidden_things.php:994
+msgid "Save Settings"
+msgstr "Salvar Configurações"
+
+#~ msgid ""
+#~ "Redirect user to login page if not logged when the Add to Cart Button is "
+#~ "hit. Remember to deactivate “Redirect to the cart page after successful "
+#~ "addition” & “Enable AJAX add to cart buttons on archives” on WooCommerce "
+#~ "> Settings > Products > Display to it works"
+#~ msgstr ""
+#~ "Redireciona o usuário para a página de Login se ele não estiver logado "
+#~ "quando clicar no botão Comprar. Lembre-se de desativar as opçõs "
+#~ "\"Redirecionar ao carrinho após uma adição bem-sucedida\" e \"Ativar "
+#~ "botão para comprar utilizando AJAX nas páginas de arquivo\" em "
+#~ "WooCommerce > Configurações > Produtos > Geral para que isso funcione."
+
+#~ msgid "Settings Saved"
+#~ msgstr "Configurações Salvas"
+
+#~ msgid "Woocommerce"
+#~ msgstr "Woocommerce"
+
+#~ msgid "Login Screen"
+#~ msgstr "Tela de Login"
+
+#~ msgid "Dashboard"
+#~ msgstr "Página Inicial"

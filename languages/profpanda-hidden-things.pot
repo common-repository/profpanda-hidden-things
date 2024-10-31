@@ -1,0 +1,260 @@
+# Copyright (C) 2017 ProfPanda Hidden Things
+# This file is distributed under the same license as the ProfPanda Hidden Things package.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: ProfPanda Hidden Things 1.0.2\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/profpanda-hidden-"
+"things\n"
+"POT-Creation-Date: 2019-07-03 19:02-0300\n"
+"PO-Revision-Date: 2017-01-19 08:31-0300\n"
+"Last-Translator: \n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 2.2.3\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: esc_html__;__;_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: profpanda_hidden_things.php:82
+msgid "<span class=\"woo\">Woocommerce</span>"
+msgstr ""
+
+#: profpanda_hidden_things.php:89
+msgid "<span class=\"loginscreen\">Login Screen</span>"
+msgstr ""
+
+#: profpanda_hidden_things.php:96
+msgid "<span class=\"dash\">Dashboard</span>"
+msgstr ""
+
+#: profpanda_hidden_things.php:104
+msgid "Price"
+msgstr ""
+
+#: profpanda_hidden_things.php:117
+msgid "Buy Button"
+msgstr ""
+
+#: profpanda_hidden_things.php:130
+msgid "Redirection on Buy Button"
+msgstr ""
+
+#: profpanda_hidden_things.php:143
+msgid "Page to Redirect"
+msgstr ""
+
+#: profpanda_hidden_things.php:156
+msgid "Login Logo"
+msgstr ""
+
+#: profpanda_hidden_things.php:169
+msgid "Admin Footer Text"
+msgstr ""
+
+#: profpanda_hidden_things.php:182
+msgid "Login Form Background"
+msgstr ""
+
+#: profpanda_hidden_things.php:195
+msgid "Login Form Label Color"
+msgstr ""
+
+#: profpanda_hidden_things.php:208
+msgid "Login Form button text Color"
+msgstr ""
+
+#: profpanda_hidden_things.php:221
+msgid "Login Form button shadow Color"
+msgstr ""
+
+#: profpanda_hidden_things.php:234
+msgid "Login Form button border Color"
+msgstr ""
+
+#: profpanda_hidden_things.php:247
+msgid "Login Form button background Color"
+msgstr ""
+
+#: profpanda_hidden_things.php:260
+msgid "Dashboard Plugins"
+msgstr ""
+
+#: profpanda_hidden_things.php:273
+msgid "User Library"
+msgstr ""
+
+#: profpanda_hidden_things.php:286
+msgid "Hide Admin Bar"
+msgstr ""
+
+#: profpanda_hidden_things.php:299
+msgid "Dashboard Recent Comments"
+msgstr ""
+
+#: profpanda_hidden_things.php:312
+msgid "Dashboard Primary Area"
+msgstr ""
+
+#: profpanda_hidden_things.php:325
+msgid "Dashboard Secondary Area"
+msgstr ""
+
+#: profpanda_hidden_things.php:338
+msgid "Dashboard Incoming Links"
+msgstr ""
+
+#: profpanda_hidden_things.php:351
+msgid "Dashboard Right Now"
+msgstr ""
+
+#: profpanda_hidden_things.php:364
+msgid "Dashboard Quick Press"
+msgstr ""
+
+#: profpanda_hidden_things.php:377
+msgid "Dashboard Activity"
+msgstr ""
+
+#: profpanda_hidden_things.php:408
+msgid "Hide price and/or buy button when user are not logged."
+msgstr ""
+
+#: profpanda_hidden_things.php:415
+msgid "Change options in Login screen."
+msgstr ""
+
+#: profpanda_hidden_things.php:422
+msgid "Hide elements in Dashboard."
+msgstr ""
+
+#: profpanda_hidden_things.php:443 profpanda_hidden_things.php:466
+msgid "Hide"
+msgstr ""
+
+#: profpanda_hidden_things.php:446 profpanda_hidden_things.php:469
+msgid "Show"
+msgstr ""
+
+#: profpanda_hidden_things.php:450
+msgid "Hide the product price if user are not logged. "
+msgstr ""
+
+#: profpanda_hidden_things.php:473
+msgid "Hide the buy button if user are not logged. "
+msgstr ""
+
+#: profpanda_hidden_things.php:499
+msgid ""
+"Redirect user to default login page if not logged when the Add to Cart "
+"Button is hit. "
+msgstr ""
+
+#: profpanda_hidden_things.php:532
+msgid "Select the page to redirect after Add to Cart button is hit. "
+msgstr ""
+
+#: profpanda_hidden_things.php:549
+msgid "Enter the Logo URL you want to use in the Login screen."
+msgstr ""
+
+#: profpanda_hidden_things.php:566
+msgid "Enter the text to be show in the admin footer."
+msgstr ""
+
+#: profpanda_hidden_things.php:581
+msgid "Form Login Background"
+msgstr ""
+
+#: profpanda_hidden_things.php:584
+msgid "Choose the color to Login Form Background."
+msgstr ""
+
+#: profpanda_hidden_things.php:599
+msgid "Text Color"
+msgstr ""
+
+#: profpanda_hidden_things.php:602
+msgid "Choose the color to the text of the Form Login."
+msgstr ""
+
+#: profpanda_hidden_things.php:617
+msgid "Button Text"
+msgstr ""
+
+#: profpanda_hidden_things.php:620
+msgid "Choose the color to the button text of the Form Login."
+msgstr ""
+
+#: profpanda_hidden_things.php:635
+msgid "Button Shadow"
+msgstr ""
+
+#: profpanda_hidden_things.php:638
+msgid "Choose the color to the button shadow of the Form Login."
+msgstr ""
+
+#: profpanda_hidden_things.php:654
+msgid "Button Border"
+msgstr ""
+
+#: profpanda_hidden_things.php:657
+msgid "Choose the color to the button border of the Form Login."
+msgstr ""
+
+#: profpanda_hidden_things.php:672
+msgid "Button Background"
+msgstr ""
+
+#: profpanda_hidden_things.php:675
+msgid "Choose the color to the button background of the Form Login."
+msgstr ""
+
+#: profpanda_hidden_things.php:701
+msgid "Users can see only the Midia they upload."
+msgstr ""
+
+#: profpanda_hidden_things.php:727
+msgid "Hide upper admin bar to users that are not admin or editor."
+msgstr ""
+
+#: profpanda_hidden_things.php:753
+msgid "Hide the Dasboard Plugin area. "
+msgstr ""
+
+#: profpanda_hidden_things.php:779
+msgid "Hide the Dasboard Recent Comments area. "
+msgstr ""
+
+#: profpanda_hidden_things.php:805
+msgid "Hide the Dasboard Primary area. "
+msgstr ""
+
+#: profpanda_hidden_things.php:831
+msgid "Hide the Dasboard Secondary area. "
+msgstr ""
+
+#: profpanda_hidden_things.php:857
+msgid "Hide the Dasboard Incoming Links area. "
+msgstr ""
+
+#: profpanda_hidden_things.php:883
+msgid "Hide the Dasboard Right Now area. "
+msgstr ""
+
+#: profpanda_hidden_things.php:909
+msgid "Hide the Dasboard Quick Press area. "
+msgstr ""
+
+#: profpanda_hidden_things.php:935
+msgid "Hide the Dasboard Activity area. "
+msgstr ""
+
+#: profpanda_hidden_things.php:994
+msgid "Save Settings"
+msgstr ""
